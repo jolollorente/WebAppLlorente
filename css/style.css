@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+body{background-color:#ffd200;}
+
+a{
+	font-family:arial;
+	color: #ffffff;
+	font-size:18px;
+	text-decoration: none;
+	letter-spacing:2px;
+}
+a:hover{
+	font-family:arial;
+	color: #ffffff;
+	font-size:18px;
+	text-decoration: none;
+	letter-spacing:2px;
+}
+div.subscribe{
+	background-color:#ffc929;
+}
